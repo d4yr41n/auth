@@ -1,1 +1,4 @@
-
+starlette
+uvicorn
+sqlalchemy
+aiosqlite
