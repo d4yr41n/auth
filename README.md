@@ -11,7 +11,7 @@ cd auth/server
 python -m venv .venv
 . .env/bin/activate
 pip install -r requirements.txt
-uvicorn main:app --port 8000
+uvicorn main:app
 ```
 
 ### Client
